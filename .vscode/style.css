@@ -1,0 +1,25 @@
+p {
+          
+    font-size: larger;
+  }
+  .pink{
+      color: yellow;
+  }
+  .sub{
+      color: blue;
+  }
+  #first{
+      color: red;
+  }
+  #intro{
+      background-color: aqua;
+  } 
+  button:hover{
+      color: blue;
+  } 
+  a:hover{
+      color: red;
+  }
+  .link:hover{
+      color: black;
+  }

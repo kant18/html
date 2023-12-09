@@ -1,0 +1,53 @@
+.container{
+    border: 1px solid black;
+    width: 500px;
+    height: 500px;
+    background-color: aqua;
+   
+}
+
+
+.box1{
+    border: 1px solid red;
+    width: 100px;
+    display: flex;
+   
+    align-self: center;
+    position: absolute;
+    
+
+
+}
+.box2{
+    border: 1px solid red;
+    width: 100px;
+    display: flex;
+   
+    align-self: center;
+    position: relative;
+    left: 400px;
+    
+}
+
+.box3{
+    border: 1px solid red;
+    width: 100px;
+    display: flex;
+   
+    align-self: center;
+    position: relative;
+    top: 458px;
+    
+}
+
+
+.box4{
+    border: 1px solid red;
+    width: 100px;
+    display: flex;
+   
+    align-self: center;
+    position: relative;
+    
+    
+}
